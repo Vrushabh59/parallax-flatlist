@@ -11,9 +11,9 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		1F86CA11ECFD3ECAEF5B63EE /* libPods-parallax_flatlist.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4F2D73A8B49CDA15F5287D78 /* libPods-parallax_flatlist.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		FE504D15680DF15D6D689261 /* libPods-parallax_flatlist-parallax_flatlistTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FD465785A77B0ACEB94A7C42 /* libPods-parallax_flatlist-parallax_flatlistTests.a */; };
+		A1012E5B6B2BF94492E1C2EA /* libPods-parallax_flatlist-parallax_flatlistTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C2073804EC04F791295F2DFC /* libPods-parallax_flatlist-parallax_flatlistTests.a */; };
+		D2A88BB7ECA5D2D6C5C0517C /* libPods-parallax_flatlist.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 86A63E098C5348A7EF9EAD4B /* libPods-parallax_flatlist.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,14 +36,14 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = parallax_flatlist/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = parallax_flatlist/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = parallax_flatlist/main.m; sourceTree = "<group>"; };
-		424527AFEA47805A1B3BC1FC /* Pods-parallax_flatlist.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-parallax_flatlist.debug.xcconfig"; path = "Target Support Files/Pods-parallax_flatlist/Pods-parallax_flatlist.debug.xcconfig"; sourceTree = "<group>"; };
-		4F2D73A8B49CDA15F5287D78 /* libPods-parallax_flatlist.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-parallax_flatlist.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		710F8B8B7F663ECAA2E2B86A /* Pods-parallax_flatlist-parallax_flatlistTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-parallax_flatlist-parallax_flatlistTests.release.xcconfig"; path = "Target Support Files/Pods-parallax_flatlist-parallax_flatlistTests/Pods-parallax_flatlist-parallax_flatlistTests.release.xcconfig"; sourceTree = "<group>"; };
-		72B7935ED656B3AEE42C92A1 /* Pods-parallax_flatlist-parallax_flatlistTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-parallax_flatlist-parallax_flatlistTests.debug.xcconfig"; path = "Target Support Files/Pods-parallax_flatlist-parallax_flatlistTests/Pods-parallax_flatlist-parallax_flatlistTests.debug.xcconfig"; sourceTree = "<group>"; };
+		18066C404F50645360613BFC /* Pods-parallax_flatlist.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-parallax_flatlist.release.xcconfig"; path = "Target Support Files/Pods-parallax_flatlist/Pods-parallax_flatlist.release.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = parallax_flatlist/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		A521DF41298E4B75720D3116 /* Pods-parallax_flatlist.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-parallax_flatlist.release.xcconfig"; path = "Target Support Files/Pods-parallax_flatlist/Pods-parallax_flatlist.release.xcconfig"; sourceTree = "<group>"; };
+		86A63E098C5348A7EF9EAD4B /* libPods-parallax_flatlist.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-parallax_flatlist.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D9AB6053028C8C96C2A3705 /* Pods-parallax_flatlist-parallax_flatlistTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-parallax_flatlist-parallax_flatlistTests.debug.xcconfig"; path = "Target Support Files/Pods-parallax_flatlist-parallax_flatlistTests/Pods-parallax_flatlist-parallax_flatlistTests.debug.xcconfig"; sourceTree = "<group>"; };
+		A1862991A1A940308F33D94A /* Pods-parallax_flatlist.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-parallax_flatlist.debug.xcconfig"; path = "Target Support Files/Pods-parallax_flatlist/Pods-parallax_flatlist.debug.xcconfig"; sourceTree = "<group>"; };
+		A9226BF3B60C35BEEB1EE53E /* Pods-parallax_flatlist-parallax_flatlistTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-parallax_flatlist-parallax_flatlistTests.release.xcconfig"; path = "Target Support Files/Pods-parallax_flatlist-parallax_flatlistTests/Pods-parallax_flatlist-parallax_flatlistTests.release.xcconfig"; sourceTree = "<group>"; };
+		C2073804EC04F791295F2DFC /* libPods-parallax_flatlist-parallax_flatlistTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-parallax_flatlist-parallax_flatlistTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		FD465785A77B0ACEB94A7C42 /* libPods-parallax_flatlist-parallax_flatlistTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-parallax_flatlist-parallax_flatlistTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,7 +51,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FE504D15680DF15D6D689261 /* libPods-parallax_flatlist-parallax_flatlistTests.a in Frameworks */,
+				A1012E5B6B2BF94492E1C2EA /* libPods-parallax_flatlist-parallax_flatlistTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,7 +59,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1F86CA11ECFD3ECAEF5B63EE /* libPods-parallax_flatlist.a in Frameworks */,
+				D2A88BB7ECA5D2D6C5C0517C /* libPods-parallax_flatlist.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -100,8 +100,8 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				4F2D73A8B49CDA15F5287D78 /* libPods-parallax_flatlist.a */,
-				FD465785A77B0ACEB94A7C42 /* libPods-parallax_flatlist-parallax_flatlistTests.a */,
+				86A63E098C5348A7EF9EAD4B /* libPods-parallax_flatlist.a */,
+				C2073804EC04F791295F2DFC /* libPods-parallax_flatlist-parallax_flatlistTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -109,12 +109,11 @@
 		5284F4F61AFAD6A75C044ECF /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				424527AFEA47805A1B3BC1FC /* Pods-parallax_flatlist.debug.xcconfig */,
-				A521DF41298E4B75720D3116 /* Pods-parallax_flatlist.release.xcconfig */,
-				72B7935ED656B3AEE42C92A1 /* Pods-parallax_flatlist-parallax_flatlistTests.debug.xcconfig */,
-				710F8B8B7F663ECAA2E2B86A /* Pods-parallax_flatlist-parallax_flatlistTests.release.xcconfig */,
+				A1862991A1A940308F33D94A /* Pods-parallax_flatlist.debug.xcconfig */,
+				18066C404F50645360613BFC /* Pods-parallax_flatlist.release.xcconfig */,
+				9D9AB6053028C8C96C2A3705 /* Pods-parallax_flatlist-parallax_flatlistTests.debug.xcconfig */,
+				A9226BF3B60C35BEEB1EE53E /* Pods-parallax_flatlist-parallax_flatlistTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -156,12 +155,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "parallax_flatlistTests" */;
 			buildPhases = (
-				BC391E04A5C57FA08AA70B61 /* [CP] Check Pods Manifest.lock */,
+				BB675AB461CD309786FD6A53 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				108D6D50AEEE6E5496F940E5 /* [CP] Embed Pods Frameworks */,
-				165B687DCF60CAB6E9B3CF9B /* [CP] Copy Pods Resources */,
+				F37AFE43B357B43F5B513BF5 /* [CP] Embed Pods Frameworks */,
+				ED70382100EFCF5BE25D5BF3 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -177,14 +176,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "parallax_flatlist" */;
 			buildPhases = (
-				7AC239B82E275704F4EAAB01 /* [CP] Check Pods Manifest.lock */,
+				8C1F8E228F4176767F911A4F /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				2F9F46F69E3BB50EEE9E6197 /* [CP] Embed Pods Frameworks */,
-				9DAE4F0D2324BF7764F7F380 /* [CP] Copy Pods Resources */,
+				DC3AC172F885FE772589C290 /* [CP] Embed Pods Frameworks */,
+				E88855940E53B54AB8FBD5BA /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -265,58 +264,7 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
 		};
-		108D6D50AEEE6E5496F940E5 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist-parallax_flatlistTests/Pods-parallax_flatlist-parallax_flatlistTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist-parallax_flatlistTests/Pods-parallax_flatlist-parallax_flatlistTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist-parallax_flatlistTests/Pods-parallax_flatlist-parallax_flatlistTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		165B687DCF60CAB6E9B3CF9B /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist-parallax_flatlistTests/Pods-parallax_flatlist-parallax_flatlistTests-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist-parallax_flatlistTests/Pods-parallax_flatlist-parallax_flatlistTests-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist-parallax_flatlistTests/Pods-parallax_flatlist-parallax_flatlistTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		2F9F46F69E3BB50EEE9E6197 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist/Pods-parallax_flatlist-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist/Pods-parallax_flatlist-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist/Pods-parallax_flatlist-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		7AC239B82E275704F4EAAB01 /* [CP] Check Pods Manifest.lock */ = {
+		8C1F8E228F4176767F911A4F /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -338,24 +286,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		9DAE4F0D2324BF7764F7F380 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist/Pods-parallax_flatlist-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist/Pods-parallax_flatlist-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist/Pods-parallax_flatlist-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		BC391E04A5C57FA08AA70B61 /* [CP] Check Pods Manifest.lock */ = {
+		BB675AB461CD309786FD6A53 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -375,6 +306,74 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DC3AC172F885FE772589C290 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist/Pods-parallax_flatlist-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist/Pods-parallax_flatlist-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist/Pods-parallax_flatlist-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E88855940E53B54AB8FBD5BA /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist/Pods-parallax_flatlist-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist/Pods-parallax_flatlist-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist/Pods-parallax_flatlist-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		ED70382100EFCF5BE25D5BF3 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist-parallax_flatlistTests/Pods-parallax_flatlist-parallax_flatlistTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist-parallax_flatlistTests/Pods-parallax_flatlist-parallax_flatlistTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist-parallax_flatlistTests/Pods-parallax_flatlist-parallax_flatlistTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F37AFE43B357B43F5B513BF5 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist-parallax_flatlistTests/Pods-parallax_flatlist-parallax_flatlistTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist-parallax_flatlistTests/Pods-parallax_flatlist-parallax_flatlistTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-parallax_flatlist-parallax_flatlistTests/Pods-parallax_flatlist-parallax_flatlistTests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -429,7 +428,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 72B7935ED656B3AEE42C92A1 /* Pods-parallax_flatlist-parallax_flatlistTests.debug.xcconfig */;
+			baseConfigurationReference = 9D9AB6053028C8C96C2A3705 /* Pods-parallax_flatlist-parallax_flatlistTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -456,7 +455,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 710F8B8B7F663ECAA2E2B86A /* Pods-parallax_flatlist-parallax_flatlistTests.release.xcconfig */;
+			baseConfigurationReference = A9226BF3B60C35BEEB1EE53E /* Pods-parallax_flatlist-parallax_flatlistTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -480,8 +479,9 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 424527AFEA47805A1B3BC1FC /* Pods-parallax_flatlist.debug.xcconfig */;
+			baseConfigurationReference = A1862991A1A940308F33D94A /* Pods-parallax_flatlist.debug.xcconfig */;
 			buildSettings = {
+				"ARCHS[sdk=*]" = "$(ARCHS_STANDARD)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
@@ -506,7 +506,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A521DF41298E4B75720D3116 /* Pods-parallax_flatlist.release.xcconfig */;
+			baseConfigurationReference = 18066C404F50645360613BFC /* Pods-parallax_flatlist.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
